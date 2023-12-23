@@ -1,0 +1,24 @@
+1) Install enzyme
+   npm install --save-dev enzyme @wojtekmaj/enzyme-adapter-react-17
+
+2) Configure enzyme - Add the following code to "src/setupTests.js"
+   import Enzyme from 'enzyme';
+   import Adapter from '@wojtekmaj/enzyme-adapter-react-17';
+
+   Enzyme.configure({ adapter: new Adapter() });
+   
+3) Install enzyme-to-json
+   npm install --save-dev enzyme-to-json
+   
+4) In order for enzyme-to-json to use the serializer, add the below configuration in package.json
+  "jest": {
+    "snapshotSerializers": [
+      "enzyme-to-json/serializer"
+    ]
+  }
+
+5) Install axios (for making http requests)
+   npm install --save axios
+   
+6) Install moxios (for testing)
+   npm install --save-dev moxios
