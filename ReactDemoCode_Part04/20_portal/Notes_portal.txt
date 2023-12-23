@@ -1,0 +1,5 @@
+Portals
+=======
+React portals provide a way to render children into a DOM node that exists outside the DOM hierarchy of the parent component.
+
+Can be used for Modal, pop-up, tool tip, floating menu.

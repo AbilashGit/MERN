@@ -1,0 +1,10 @@
+Prop Drilling 
+=============
+Prop-drilling refers to passing of data from a component to sub components through props.
+
+Context API
+===========
+1. Context - Create Context
+2. Provider - Provides the data to components deep in the hierarchy
+3. Consumer - Consumes the data provided by Provider directly 
+
