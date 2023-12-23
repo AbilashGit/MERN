@@ -1,0 +1,252 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "chains",
+      "image": "https://n1.sdlcdn.com/imgs/h/g/x/Xoonic-One-Gram-22kt-Gold-SDL421505039-4-caf08.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "chains",
+      "image": "https://i.etsystatic.com/5731106/r/il/7d0d7e/1716503098/il_794xN.1716503098_ikhz.jpg"
+    },
+    {
+      "id": 5,
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "chains",
+      "image": "https://th.bing.com/th/id/OIP.dNqTI360tiXXLyWlmt5YIgHaHa?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 7,
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "necklace",
+      "image": "https://th.bing.com/th/id/R.43b7bc5727cf97e0999ead72a1607650?rik=EvcrLtiPo78sEA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-PvwslNXUJy0%2fTXjsr1WCp8I%2fAAAAAAAAABs%2fqTRLN9wLNe4%2fs1600%2f4.jpg&ehk=9UG%2bQKzfWOSPIPL%2bQbmtQ28CiU2MdTWcwDVsDRFgM1Q%3d&risl=&pid=ImgRaw"
+    },
+    {
+      "id": 8,
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "necklace",
+      "image": "https://th.bing.com/th/id/R.6ecae0a64cf592c8403d59eb1189ba67?rik=XJZzjVW7Si5Vuw&riu=http%3a%2f%2fblog.southindiajewels.com%2fwp-content%2fuploads%2f2019%2f12%2ftraditional-gold-necklace-designs-14.jpg&ehk=Aq7Sx9W5cxGNg9dcWFvxhWyKHavsEH%2fSyfBm0WYfB38%3d&risl=&pid=ImgRaw"
+    },
+    {
+      "id": 9,
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "price": 64,
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+      "category": "necklace",
+      "image": "https://blog.southindiajewels.com/wp-content/uploads/2019/12/traditional-gold-necklace-designs-3.jpg"
+    },
+    {
+      "id": 10,
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "category": "necklace",
+      "image": "https://blog.southindiajewels.com/wp-content/uploads/2019/12/traditional-gold-necklace-designs-9.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "price": 109,
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+      "category": "bangles",
+      "image": "https://th.bing.com/th/id/OIP.8tWWLTVTZ4dZjGCsnkVXkwHaHa?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 12,
+      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "price": 114,
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "category": "bangles",
+      "image": "https://images.melorra.com/image/upload/h_1024,w_1024,f_auto,fl_progressive/v1565953530/live-melorra/dev/catalogue/images/LE/OPT/580/S19PLE22Z_F_580.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "price": 599,
+      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+      "category": "bangles",
+      "image": "https://th.bing.com/th/id/R.1e4fef57e2c80bf328be4106869bfa74?rik=gKTwTUpww14KQA&riu=http%3a%2f%2fwww.grtjewels.com%2fmedia%2fcatalog%2fproduct%2fcache%2f1%2fthumbnail%2f9df78eab33525d08d6e5fb8d27136e95%2fb%2fa%2fban_005%2fstyle-infinity-design-gold-bangles-11.jpg&ehk=RQJEWlO1OAku5sUbq%2fsbzXQBJKlyw9uem8yXu7gs%2f3o%3d&risl=&pid=ImgRaw"
+    },
+    {
+      "id": 14,
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+      "price": 999.99,
+      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+      "category": "bangles",
+      "image": "https://www.kotharijewelry.com/product_images/water_DSCN9756%20(1280x1024).jpg"
+    },
+    {
+      "id": 15,
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 56.99,
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "bangles",
+      "image": "https://th.bing.com/th/id/R.f9a2e44ed0168f64f7c6e242bb3fd448?rik=XCsyYxh%2bAO2Rzg&riu=http%3a%2f%2fwww.southernjewellers.in%2fwp-content%2fuploads%2f2016%2f06%2fgold-bangles-new-trendy-style-design-2014.jpg&ehk=2bl%2b%2fAtX8bntawQ8VF9E0st0fonepVDkjHLUUbFxCYQ%3d&risl=&pid=ImgRaw"
+    },
+    {
+      "id": 16,
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 29.95,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "category": "antiques",
+      "image": "https://th.bing.com/th/id/R.93800dbeaf3af6ad1ac775394d6f0f6c?rik=7T6OTCgzOeG7dg&riu=http%3a%2f%2f1.bp.blogspot.com%2f-xO4TqXRfuY0%2fU8VQWprzoaI%2fAAAAAAAASqM%2fGoA0GSCuvQU%2fs1600%2fantique-gold-heavy-choker-necklace.jpg&ehk=Yp8ZY55nPtO9h7DSOLBRUBCPtZuIpjm%2b3fyXIpCnNfU%3d&risl=&pid=ImgRaw"
+    },
+    {
+      "id": 17,
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "price": 39.99,
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "category": "antiques",
+      "image": "https://stylesatlife.com/wp-content/uploads/2016/11/Antique-gold-bangles2.jpg"
+    },
+    {
+      "id": 18,
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "price": 9.85,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "category": "antiques",
+      "image": "https://th.bing.com/th/id/R.fe34fee21b319928f3c3e441c7d8a6f4?rik=CKFQaJCFij58JQ&riu=http%3a%2f%2fwww.southjewellery.com%2fwp-content%2fuploads%2f2016%2f08%2fbridal_antique_gold_choker.jpg&ehk=yf7gmXnXnGouvsvl6qJgs2n9KHoAxIb%2fW9epLJ%2fl3OE%3d&risl=&pid=ImgRaw"
+    },
+    {
+      "id": 19,
+      "title": "Opna Women's Short Sleeve Moisture",
+      "price": 7.95,
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "category": "antiques",
+      "image": "https://th.bing.com/th/id/R.9e452448e74c870105c73d87dff1c0ab?rik=oSytrCat0yuzTg&riu=http%3a%2f%2fwww.southjewellery.com%2fwp-content%2fuploads%2f2016%2f08%2fpeacock_nakshi_jhumkas.jpg&ehk=Wvx8aXk8RXLeXmj9D8rmAz%2fqKJ4guTXGsUwUNKCbxAA%3d&risl=&pid=ImgRaw"
+    },
+    {
+      "id": 20,
+      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "price": 12.99,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "antiques",
+      "image": "https://th.bing.com/th/id/OIP.yinygLsGzEKHb0X7ttjPnQHaHi?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 21,
+      "title": "Solid Gold Petite Micropave ",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "earrings",
+      "image": "https://cdn0.rubylane.com/_pod/item/338449/RL9410/Vintage-Estate-14K-Yellow-Gold-Hoop-full-2o-2048-592-f.jpg"
+    },
+    {
+      "id": 22,
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "earrings",
+      "image": "https://www.antiquejewellerycompany.com/wp-content/uploads/2013/07/171a-1120x840.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "earrings",
+      "image": "https://th.bing.com/th/id/OIP.ofjao_LvdKdwoyqOx1QlmQHaHa?pid=ImgDet&w=2000&h=2000&rs=1"
+    },
+    {
+      "id": 24,
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "price": 64,
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+      "category": "earrings",
+      "image": "https://th.bing.com/th/id/R.8cf9e1f3d4908e9a42e155714e7403ef?rik=iWjNs6UWpO9YlQ&riu=http%3a%2f%2fwww.grtjewels.com%2fmedia%2fcatalog%2fproduct%2fcache%2f1%2fimage%2f9df78eab33525d08d6e5fb8d27136e95%2f0%2f0%2f001_12_35%2fnew-classic-bridal-gold-earrings-31.jpg&ehk=e6Llp6OWNWsGvlDp9RoESZOvU5b1e%2biWqar0Ro4htHA%3d&risl=&pid=ImgRaw"
+    },
+    {
+      "id": 25,
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "category": "earrings",
+      "image": "https://www.malabargoldanddiamonds.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/k/l/kltaaaaahdsl.jpg"
+    },
+    {
+      "id": 26,
+      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "price": 109,
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+      "category": "silver",
+      "image": "https://th.bing.com/th/id/OIP.aBv-f6EJlZcD7spJLMq9aAHaHa?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 27,
+      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "price": 114,
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "category": "silver",
+      "image": "https://i.pinimg.com/originals/7b/f2/ac/7bf2aca5c8922e70d98b322ce2fd2c9d.jpg"
+    },
+    {
+      "id": 28,
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "price": 599,
+      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+      "category": "silver",
+      "image": "https://th.bing.com/th/id/OIP.sFlCj2x6UkssosYApZc3jgHaNK?pid=ImgDet&w=540&h=960&rs=1"
+    },
+    {
+      "id": 29,
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+      "price": 999.99,
+      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+      "category": "silver",
+      "image": "https://th.bing.com/th/id/OIP.9KJRXYP6S2rdGvPYiOV6uQHaHa?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 30,
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 56.99,
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "silver",
+      "image": "https://th.bing.com/th/id/OIP.QaRvsHadFgdmR_9WGrubygHaGy?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 31,
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "rings",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": 32,
+      "title": "Solid Gold Petite Micropave ",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "rings",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": 34,
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "rings",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": 35,
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "price": 64,
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+      "category": "rings",
+      "image": "https://i5.walmartimages.com/asr/a6444d71-6d69-4bab-ab51-e220e6a34408_1.a858331186d989040052b77121ec19b4.jpeg"
+    }
+  ]
+}
